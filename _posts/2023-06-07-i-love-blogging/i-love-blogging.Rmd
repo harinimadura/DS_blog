@@ -1,10 +1,10 @@
 ---
 title: "I love blogging!"
 description: |
-  A short description of the post.
+  Just a trial run of lodging a new blog with R & git...
 author:
   - name: Harini Subramanian
-    url: https://example.com/norajones
+    url: https://ds_blog.com/hs
 date: 2023-06-07
 output:
   distill::distill_article:
