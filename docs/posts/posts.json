@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2023-06-07T20:05:24+10:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2023-06-07-i-love-blogging/",
+    "title": "I love blogging!",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Harini Subramanian",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-06-07",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-06-07T20:21:32+10:00",
+    "input_file": "i-love-blogging.knit.md"
   }
 ]

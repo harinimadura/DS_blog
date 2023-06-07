@@ -3,7 +3,7 @@ title: "I love blogging!"
 description: |
   A short description of the post.
 author:
-  - name: Nora Jones
+  - name: Harini Subramanian
     url: https://example.com/norajones
 date: 2023-06-07
 output:
